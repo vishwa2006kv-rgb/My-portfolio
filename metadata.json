@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Elite Portfolio",
+  "description": "A high-end developer portfolio featuring a dynamic project showcase, skills visualization with Recharts, and a real-time AI voice assistant powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
